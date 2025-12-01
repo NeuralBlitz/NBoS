@@ -1,3 +1,3 @@
 # NBoS
 
- ($star$)
+ $$/mathcal{star})$$
